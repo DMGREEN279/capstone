@@ -1,4 +1,4 @@
-# New York City Data Science Academy Capstone by David Green 
+# NYCDSA Medicare Healthcare Fraud Detection and Cost Benefit Analysis by David Green 
 
 Assessment of Medicare Healthcare Fraud Data utilizing python and machine learning techniques
 Taken from BCBS, approx 3-10% of US healthcare spending or $68-$230 billion dollars are spent on fraudulent healthcare claims and management. 
